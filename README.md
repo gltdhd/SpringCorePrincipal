@@ -1,2 +1,1 @@
-# SpringCorePrincipal
-스프링 핵심 원리 이해
+스프링 핵심 원리 - 기본편
